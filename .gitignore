@@ -22,3 +22,6 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 toy_robot_simulator-*.tar
 
+.elixir_ls/
+.idea/
+toy_robot_simulator.iml
